@@ -1,2 +1,5 @@
 Nytt
+<<<<<<< HEAD
 hg
+=======
+>>>>>>> 95e64875ce3bb3df9c67ab4fdac35abd373fba9f
